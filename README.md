@@ -43,15 +43,15 @@ pyTorch
 
 [2] A. Maradesa, B. Py, T.H. Wan, M.B. Effat, F. Ciucci, Selecting the regularization parameter in the distribution of relaxation times, J. Electrochem. Society. 170-3 (2023) 030502. https://doi.org/10.1149/1945-7111/acbca4 
 
-[3] M. Saccoccio, T.H. Wan, C. Chen, F. Ciucci, Optimal regularization in distribution of relaxation times applied to electrochemical impedance spectroscopy: ridge and lasso regression methods-a theoretical and experimental study, Electrochim. Acta. 147 (2014) 470-482. https/doi.org/10.1016/j.electacta.2014.09.058.
+[3] M. Saccoccio, T.H. Wan, C. Chen, F. Ciucci, Optimal regularization in distribution of relaxation times applied to electrochemical impedance spectroscopy: ridge and lasso regression methods-a theoretical and experimental study, Electrochim. Acta. 147 (2014) 470-482. https://doi.org/10.1016/j.electacta.2014.09.058.
 
 [4] J. Liu, F. Ciucci, The deep-prior distribution of relaxation times, J. Electrochem. Society. 167-2 (2020) 026506. https/doi.org/10.1149/1945-7111/ab631a.
 
-[5] E. Quattrocchi, T.H. Wan, A. Belotti, D. Kim, S. Pepe, S.V. Kalinin, M. Ahmadi, F. Ciucci, The deep-DRT: A deep neural network approach to deconvolve the distribution of relaxation times from multidimensional electrochemical impedance spectroscopy data, Electrochim. Acta. 392 (2021) 139010. https/doi.org/10.1016/j.electacta.2021.139010.
+[5] E. Quattrocchi, T.H. Wan, A. Belotti, D. Kim, S. Pepe, S.V. Kalinin, M. Ahmadi, F. Ciucci, The deep-DRT: A deep neural network approach to deconvolve the distribution of relaxation times from multidimensional electrochemical impedance spectroscopy data, Electrochim. Acta. 392 (2021) 139010. https://doi.org/10.1016/j.electacta.2021.139010.
 
-[6] E. Quattrocchi, B. Py, A. Maradesa, Q. Meyer, C. Zhao, F. Ciucci, Deconvolution of electrochemical impedance spectroscopy data using the deep-neural-network-enhanced distribution of relaxation times, Electrochim. Acta. 439 (2023) 141499. https/doi.org/10.1016/j.electacta.2022.141499.
+[6] E. Quattrocchi, B. Py, A. Maradesa, Q. Meyer, C. Zhao, F. Ciucci, Deconvolution of electrochemical impedance spectroscopy data using the deep-neural-network-enhanced distribution of relaxation times, Electrochim. Acta. 439 (2023) 141499.https://doi.org/10.1016/j.electacta.2022.140119.
 
-[7] K. Yang, J. Liu, Y. Wang, X. Shi, J. Wang, Q. Lu, F. Ciucci, Z. Yang, Machine-learning-assisted prediction of long-term performance degradation on solid oxide fuel cell cathodes induced by chromium poisoning, J. Materials Chem. A. 10-44 (2022) 23683-23690. https/doi.org/10.1039/d2ta03944c.
+[7] K. Yang, J. Liu, Y. Wang, X. Shi, J. Wang, Q. Lu, F. Ciucci, Z. Yang, Machine-learning-assisted prediction of long-term performance degradation on solid oxide fuel cell cathodes induced by chromium poisoning, J. Materials Chem. A. 10-44 (2022) 23683-23690.https://doi.org/10.1039/D2TA03944C.
 
-[8] F. Ciucci, Modeling electrochemical impedance spectroscopy. C. Opin. Electrochem., 13 (2019) 132-139. https/doi.org/10.1016/j.coelec.2018.12.003.
+[8] F. Ciucci, Modeling electrochemical impedance spectroscopy. C. Opin. Electrochem., 13 (2019) 132-139. https://doi.org/10.1016/j.coelec.2018.12.003.
 
