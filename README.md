@@ -17,22 +17,22 @@ matplotlib
 
 pandas
 
+pyTorch
+
 # Tutorials
-1. **ex1_single ZARC Model.ipynb**: this notebook gives detail procedure of how to recover the DRT from the impedance generated using a single ZARC model consisting of a resistance placed in parallel to a constant phase element (CPE) The frequency range is from 1E-4 Hz to 1E4 Hz with 10 points per decade (ppd).
-2. **ex2_double ZARC Model.ipynb** : this notebook demonstrates how the fGP-DRT can capture overlapping timescales with two ZARC models arranged in series. The frequency range is from 1E-4 Hz to 1E4 Hz with 10 ppd.
-3. **ex3_single_ZARC_plus_an_inductor.pynb** : this notebook adds an inductor to the model used in "**example1_single ZARC Model.ipynb**"
-4. **ex4_BLF_pO2_60percent_Temp_500_C.ipynb** : this notebook displays the DRT analysis of the BLF impedance spectra from fuel cell. The real experimental EIS data is read from a csv file, the DRT is predicted by the fGP-DRT model, the complete impedance is, therefore, recovered and compared with the equivalent circuit model (ECM) consisting of two ZARCs
-5. **ex5_SCFN_3percent_H2O_Temp_500_C.ipynb** : this notebook shows the DRT analysis of the SCFN impedance spectra from real experiment. Also the real EIS data is read from a csv file, the DRT is predicted by the fGP-DRT model, the real and imaginary components of the impedance are recovered and compared with the 2ZARCs ECM. 
+1. **ex1_2ZARC+Warburg.ipynb**: this notebook shows how to deconvolve the DCT of synthetic EIS data generated using the series association of a double ZARC element and a generalized Warburg element;
+2. **ex2_deLevie.ipynb** : this notebook shows how to deconvolve the DCT of synthetic EIS data generated with de Levie model;
+3. **•	ex3_ML621.ipynb** : this notebook shows how to deconvolve the DCT of real EIS data measured by our group on a Panasonic ML621 battery at different states-of-charge.
 
 # Citation
 
 ```
-@article{maradesa2022probabilistic,
-  title={The Probabilistic Deconvolution of the Distribution of Relaxation Times with Finite Gaussian Processes},
-  author={Maradesa, Adeleke and Py, Baptiste and Quattrocchi, Emanuele and Ciucci, Francesco},
+@article{py2023theory,
+  title={Theory to Practice: Unlocking the Distribution of Capacitive Times in Electrochemical Impedance Spectroscopy},
+  author={Py, Baptiste and Maradesa, Adeleke and Ciucci, Francesco},
   journal={Electrochimica Acta},
-  pages={140119},
-  year={2022},
+  pages={143741},
+  year={2023},
   publisher={Elsevier}
 }
 
