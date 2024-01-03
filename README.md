@@ -49,7 +49,7 @@ PyTorch
 
 [3] M. Saccoccio, T.H. Wan, C. Chen, F. Ciucci, Optimal regularization in distribution of relaxation times applied to electrochemical impedance spectroscopy: ridge and lasso regression methods-a theoretical and experimental study, Electrochim. Acta. 147 (2014) 470-482. https://doi.org/10.1016/j.electacta.2014.09.058.
 
-[4] J. Liu, F. Ciucci, The deep-prior distribution of relaxation times, J. Electrochem. Society. 167-2 (2020) 026506. https/doi.org/10.1149/1945-7111/ab631a.
+[4] J. Liu, F. Ciucci, The deep-prior distribution of relaxation times, J. Electrochem. Society. 167-2 (2020) 026506. https://doi.org/10.1149/1945-7111/ab631a.
 
 [5] E. Quattrocchi, T.H. Wan, A. Belotti, D. Kim, S. Pepe, S.V. Kalinin, M. Ahmadi, F. Ciucci, The deep-DRT: A deep neural network approach to deconvolve the distribution of relaxation times from multidimensional electrochemical impedance spectroscopy data, Electrochim. Acta. 392 (2021) 139010. https://doi.org/10.1016/j.electacta.2021.139010.
 
