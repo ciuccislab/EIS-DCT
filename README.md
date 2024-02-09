@@ -36,7 +36,7 @@ PyTorch
   author={Py, Baptiste and Maradesa, Adeleke and Ciucci, Francesco},
   journal={Electrochimica Acta},
   pages={143741},
-  year={2023},
+  year={2024},
   publisher={Elsevier}
 }
 
@@ -58,4 +58,6 @@ PyTorch
 [7] K. Yang, J. Liu, Y. Wang, X. Shi, J. Wang, Q. Lu, F. Ciucci, Z. Yang, Machine-learning-assisted prediction of long-term performance degradation on solid oxide fuel cell cathodes induced by chromium poisoning, J. Materials Chem. A. 10-44 (2022) 23683-23690. https://doi.org/10.1039/D2TA03944C.
 
 [8] F. Ciucci, Modeling electrochemical impedance spectroscopy. C. Opin. Electrochem., 13 (2019) 132-139. https://doi.org/10.1016/j.coelec.2018.12.003.
+
+[9] B. Py, A. Maradesa, F. Ciucci, From theory to practice: Unlocking the distribution of capacitive times in electrochemical impedance spectroscopy. Electrochim. Acta, 479 (2024) 143741. https://doi.org/10.1016/j.electacta.2023.143741
 
